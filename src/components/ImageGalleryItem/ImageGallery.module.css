@@ -1,0 +1,13 @@
+.image {
+  width: 400px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 10%;
+}
+.item {
+  cursor: pointer;
+  border-radius: 10%;
+}
+.item:hover {
+  box-shadow: 5px 5px 15px 5px #000000;
+}
